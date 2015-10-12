@@ -1,0 +1,10 @@
+1) Login
+2) Dasboard
+3) Quick search.
+4) Resume Detail page.
+5) Usage report.
+6) Divine I and Divine IT search.
+7) Advance Search,
+8) search history.
+9) saved search.
+10)Logout.

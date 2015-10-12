@@ -1,0 +1,13 @@
+Attached is the User List with required details for making successful login.
+
+Steps to perform while doing Load Testing.
+
+1.	Land on TechGig.com Landing Page
+a.	Url: http://101.techgig.com/
+
+2.	Perform the Login Operation.
+a.	Url: http://101.techgig.com/dologin.php?action=login&username=<USER-EMAIL-ID>&password=timestest
+
+3.	User Lands on homepage after successful login.
+
+all headder links

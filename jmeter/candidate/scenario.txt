@@ -1,0 +1,8 @@
+1) Home Page.
+2) Login Site.
+3) Perform search.
+4) Apply job.
+5) Land to Update profile Page.
+6) job detail Page.
+7) Land to Search result page.
+8) Logout. 
